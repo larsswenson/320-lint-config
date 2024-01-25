@@ -1,0 +1,29 @@
+{
+  "name": "lint_config",
+  "version": "1.0.0",
+  "description": "Configuring ESLint in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsswenson/320-lint-config.git"
+  },
+  "keywords": [
+    "ESLint",
+    "eslint",
+    "Node.js",
+    "node"
+  ],
+  "author": "Lars Swenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsswenson/320-lint-config/issues"
+  },
+  "homepage": "https://github.com/larsswenson/320-lint-config#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
